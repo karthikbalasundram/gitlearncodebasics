@@ -1,2 +1,2 @@
 # gitlearncodebasics
-I am learning
+I am learning git from codebasics. Thank you Dhaval
