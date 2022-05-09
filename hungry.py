@@ -3,6 +3,8 @@ if input()=="yes":
     print("mayonese")
     print("hello")
     print("not inside")
+elif input()=="no":
+    print("hello")
 else:
     print("learn github")
     print("machine learning")
