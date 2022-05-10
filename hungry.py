@@ -5,6 +5,8 @@ if input()=="yes":
     print("not inside")
 elif input()=="no":
     print("hello")
+elif input()=="men":
+    print("I am a man")
 else:
     print("learn github")
     print("machine learning")
