@@ -7,6 +7,8 @@ elif input()=="no":
     print("hello")
 elif input()=="men":
     print("I am a man")
+elif input()=="women":
+    print("I am a women")
 else:
     print("learn github")
     print("machine learning")
